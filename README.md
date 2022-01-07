@@ -1,7 +1,7 @@
 # Featurisation d'Images pour l'entreprise Fruits
 
 
-L'entreprise Fruits! souhaite créer un modèle de reconnaissance de fruits. Il met à disposition un jeu de données d'images (https://www.kaggle.com/moltean/fruits) de fruits pour entraîner un modèle. On effectue dans ce notebook l'étape de prétraitement des images en aval de l'entraînement du modèle. Cette étape se décompose en deux parties :
+L'entreprise Fruits! souhaite créer un modèle de reconnaissance de fruits. Il met à disposition un jeu de données d'images (https://www.kaggle.com/moltean/fruits) de fruits pour entraîner un modèle. On effectue dans le notebook [dimensionReduction.ipynb](https://nbviewer.org/github/EloiLQ/cloudImaging/blob/main/dimensionReduction.ipynb) l'étape de prétraitement des images en aval de l'entraînement du modèle. Cette étape se décompose en deux parties :
 - une featurisation des images,
 - une réduction de dimensions de l'espace de plongement.
 
